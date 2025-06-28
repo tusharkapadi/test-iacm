@@ -10,3 +10,4 @@ resource "aws_instance" "my_first_ec2_instance" {
     Name = "my_first_ec2_instance"
   }
 }
+#changed
